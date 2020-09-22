@@ -1,6 +1,6 @@
 ## Bitcoin address generator in Rust
 
-Pretty fast bitcoin address generator in Rust, built as a PoC, **DONOT USE FOR PRODUCTION**   
+Pretty fast bitcoin address generator in Rust, built as a PoC, **DO NOT USE FOR PRODUCTION**   
 
 
 ### Run me it:    
